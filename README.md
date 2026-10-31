@@ -1,8 +1,11 @@
 # Xabane-3DS-themes
 3DS Themes created by Xabane. 3DS themes are for personal use only; Xabane does not own any art used within these themes.
 
-MANUAL INSTALLATION ONLY
+THIS IS FOR MANUAL INSTALLATION ONLY
 Click the Theme you want and Download the ZIP file. Then, transfer that ZIP file to your 3DS ‘Theme’ folder in the SD card either directly or via FTPD. I use FileZilla to virtually transfer files.
+
+You can find my themes on Theme Plaza as well:
+https://themeplaza.art/profile/XabaneVT
 
 **Custom 3DS Themes are for HACKED/Homebrewed 3DS’s ONLY.
 
